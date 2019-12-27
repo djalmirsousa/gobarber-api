@@ -54,10 +54,10 @@ _Remember: If you restart your machine, you will need to start again the server 
 
 ## Getting started
 
-_Consider checking out the FrontEnd [repository](https://github.com/djalmirsousa/gobarber)!_
+_Consider checking out the FrontEnd [repository](https://github.com/djalmirsousa/gobarberAPI)!_
 
-1. Clone this repo using `https://github.com/jpedroschmitz/gobarber-api.git`
-2. Move to the appropriate directory: `cd gobarber-api`.<br />
+1. Clone this repo using `https://github.com/djalmirsousa/gobarberAPI.git`
+2. Move to the appropriate directory: `cd gobarberAPI`.<br />
 3. Run `yarn` to install dependencies.<br />
 4. Copy the `.env.example` file and rename it to `.env`.<br/>
 5. Add all the values for the environment variables.<br/>
