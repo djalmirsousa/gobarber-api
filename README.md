@@ -19,18 +19,18 @@ GoBarber API
 
 <hr />
 
-## Features
+## Technologies
 
 A Node.js API built with Express and all the latest tools and best practices in development!
 
-- ⚡ **Express** — A web framework for Node
-- 💾 **Sequelize** — SQL dialect ORM for Node.js
-- 🍂 **MongoDB** — document-based database
-- 🔑 **Redis** — key-value data model
-- ⌨️ **Yup** - Object schema validation
-- 🔺 **Sentry** - cross-platform application monitoring
-- 📧 **Nodemailer** - Send e-mails with Node.JS
-- 💖 **Lint** — ESlint/Prettier/Editor Config
+-  **Express** — A web framework for Node
+-  **Sequelize** — SQL dialect ORM for Node.js
+-  **MongoDB** — document-based database
+-  **Redis** — key-value data model
+-  **Yup** - Object schema validation
+-  **Sentry** - cross-platform application monitoring
+-  **Nodemailer** - Send e-mails with Node.JS
+-  **Lint** — ESlint/Prettier/Editor Config
 
 ## Dependencies
 
